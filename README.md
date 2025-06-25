@@ -1,4 +1,4 @@
-# 📘 PlagiSense: Intelligent Plagiarism Detection Using DSA + NLP
+# 📑 PlagiSense: Intelligent Plagiarism Detection Using DSA + NLP
 
 **PlagiSense** is a smart plagiarism detection system that combines classic Data Structures & Algorithms (DSA) with Natural Language Processing (NLP). It detects both **exact word-level matches** and **meaning-level paraphrasing** using a dual-layered approach:
 - **Rabin-Karp Algorithm** for exact match detection
@@ -6,13 +6,22 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
 - ✅ Detects both direct copy-paste and paraphrased content
 - 🧠 Uses **Rabin-Karp** for fast exact matching of word sequences
 - 🧠 Applies **Sentence Embedding** to catch semantic similarities
 - 📝 Generates a detailed plagiarism report (`report.txt`)
 - 🎯 Calculates a plagiarism risk score and categorizes it
+
+---
+
+## 📸 Screenshots
+
+| Description            | Screenshot |
+|------------------------|------------|
+| 1️⃣Terminal Output             | ![](screenshots/1.png) |
+| 2️⃣Plagiarism Report         | ![](screenshots/2.png) |
 
 ---
 
@@ -48,7 +57,7 @@ We use the `MiniLM` model from `sentence-transformers` to compare such 5-word se
 
 ---
 
-## 🧪 Running the Project on Your Machine
+## 🛠️ Setup Instructions
 
 Follow these steps to run PlagiSense locally:
 
@@ -91,6 +100,12 @@ Results will be printed in the **terminal** and saved to `report.txt`, including
 - Risk Level (High/Moderate/Low)
 
 ---
+
+## 🙏 Acknowledgements
+
+- **DSA and NLP Implementation (Rabin-Karp Algorithm, N-Gram Generation, Text Preprocessing):** Designed and developed by ME (Naman Kumar).
+
+- **Sentence Embedding Integration for Semantic Matching:** Implemented with assistance from university CSE department teachers and friends.
 
 
 
