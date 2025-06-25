@@ -1,0 +1,15 @@
+Plagiarism Report
+Plagiarism Score: 54.54545454545454
+Risk Level: Moderate
+
+Rabin-Karp Exact Matches:
+- machine learning subset ai focus
+- learning subset ai focus predictive
+- subset ai focus predictive modeling
+
+Semantic Matches:
+- make decision machine learning subset = machine learning subset ai focus (score=0.76)
+- decision machine learning subset ai = machine learning subset ai focus (score=0.86)
+- machine learning subset ai focus = machine learning subset ai focus (score=1.0)
+- learning subset ai focus predictive = learning subset ai focus predictive (score=1.0)
+- subset ai focus predictive modeling = subset ai focus predictive modeling (score=1.0)
