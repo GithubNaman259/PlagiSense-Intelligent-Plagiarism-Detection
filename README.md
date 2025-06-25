@@ -31,6 +31,9 @@
 PlagiSense/
 ├── main.py # Main driver script
 ├── utility.py # Contains all logic: preprocessing, matching, scoring
+├── screenshots/                # 🖼️ Screenshots folder
+│   ├── 1.png 
+│   └── 2.png
 ├── sample1.txt # First input text file
 ├── sample2.txt # Second input text file
 ├── report.txt # Auto-generated plagiarism report
